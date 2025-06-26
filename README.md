@@ -311,6 +311,10 @@ VITE_API_URL=http://localhost:8000
 
 This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
 
+##Video Demo
+
+[LEARNHUB_VIDEO DEMO](https://drive.google.com/file/d/1DNDQisInw_P09CESzwnfG1A5nu4wb8KI/view?usp=sharing)
+
 ## 👨‍💻 Developer
 
 **Shaik Mohammed Yasin** - Full Stack Developer
