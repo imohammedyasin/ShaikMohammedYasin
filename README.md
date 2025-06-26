@@ -2,7 +2,7 @@
 
 A comprehensive, full-stack learning management system built with React and Node.js, designed to provide an intuitive platform for course creation, management, and learning. Features a modern, responsive design with enhanced user experience and accessibility.
 
-!(LearnHub)(https://img.shields.io/badge/LearnHub-LMS-blue?style=for-the-badge&logo=react)
+![LearnHub](https://img.shields.io/badge/LearnHub-LMS-blue?style=for-the-badge&logo=react)
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?style=for-the-badge&logo=mongodb)
