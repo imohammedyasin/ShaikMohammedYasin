@@ -29,7 +29,6 @@ A comprehensive, full-stack learning management system built with React and Node
   - **Student Activity Insights**: Track last activity, enrollment dates, and completion status
   - **Progress Visualization**: Visual charts and progress bars for easy understanding
   - **Filtering & Search**: Search students and filter by completion status
-- **Revenue Tracking**: Track course earnings and performance metrics
 - **Course Management**: Edit and update course content and details
 
 ### 🔧 For Administrators
